@@ -1,10 +1,11 @@
-## Author
+<!--## Author
 
 - Linkedin - [Marcelo Tust](https://www.linkedin.com/in/marcelotust/)
 
 ## Publitas - Code Challenge - Frontend
 
 - [Challenge Link](http://challenge.publitas.com/frontend.html)
+-->
 
 ## Setup
 
